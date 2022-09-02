@@ -1,0 +1,17 @@
+.myBtn {
+    padding: 15px 15px;
+    color: white;
+    font-size: 13px;
+    background: black;
+    border: 3px solid white;
+    border-radius: 10px;
+    opacity: 0.8;
+
+}
+.myBtn:hover  {
+    transform: scale(1.1);
+    border: 3px solid white;
+    opacity: 1;
+    color: white;
+
+}
